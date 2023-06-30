@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VMTest.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\VMTest.exe
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\VMTest.dll
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\VMTest.deps.json
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\VMTest.runtimeconfig.json
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\VMTest.pdb
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ali\source\repos\VMTest\VMTest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
