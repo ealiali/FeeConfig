@@ -3910,11 +3910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali\\source\\repos\\VMTest\\VMTest\\VMTest.csproj",
+      "projectUniqueName": "C:\\Users\\Ali\\source\\repos\\ealiali\\FeeConfig\\VMTest\\VMTest.csproj",
       "projectName": "VMTest",
-      "projectPath": "C:\\Users\\Ali\\source\\repos\\VMTest\\VMTest\\VMTest.csproj",
+      "projectPath": "C:\\Users\\Ali\\source\\repos\\ealiali\\FeeConfig\\VMTest\\VMTest.csproj",
       "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali\\source\\repos\\VMTest\\VMTest\\obj\\",
+      "outputPath": "C:\\Users\\Ali\\source\\repos\\ealiali\\FeeConfig\\VMTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
