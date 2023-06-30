@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eSpmccamtpboX3eM6YI2VfGlaGlorp6sw3Ru6XQyb1qUQsMlVbWsXHPd87vIbUlmnmvoxlaaTIaLqoEzWzTaZQ==",
+  "dgSpecHash": "281baWJ/XqqaoCKEmcgR+3u+v/jDzIuQ3Ulj9xloW2RdpstHBhsTyQyVb9beb+sbM/8kU3Cu7MwH15qPJUDXdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\VMTest\\VMTest\\VMTest.csproj",
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\ealiali\\FeeConfig\\VMTest\\VMTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

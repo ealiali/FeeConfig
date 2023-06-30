@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\Ali\source\repos\VMTest\VMTest\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Ali\Source\Repos\ealiali\FeeConfig\.github\workflows\feeApp1032.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
