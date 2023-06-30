@@ -39,19 +39,47 @@ namespace VMTest.Controllers
 
             try
             {
-                _logger.LogInformation("Strating Getting Fee Config");
+                _logger.LogInformation("Strating Getting Fee Config V2");
                 var feeConfig = await _feeDBContext.FeeConfigurations.FirstOrDefaultAsync();
                 if (feeConfig != null)
                 {
-                    _logger.LogInformation("Strating Calculating Fee Config");
-                    return Ok(feeConfig.FlatValue * amount / 100);
+                    _logger.LogInformation("Strating Calculating Fee Config V2");
+                    return Ok(new
+                    {
+                        Msg = "Success",
+                        Code = 200,
+                        Data = new
+                        {
+                            Amount = amount,
+                            Fee = feeConfig.FlatValue * amount / 100
+                        }
+                    });
                 }
-                return NotFound("There is no configuation for fee");
+                return Ok(new
+                {
+                    Msg = "Not Found Configuration For Fee",
+                    Code = 401,
+                    Data = new
+                    {
+                        Amount = amount,
+                        Fee = 0
+                    }
+                });
             }
             catch (Exception e)
             {
                 _logger.LogError(e.InnerException == null ? e.Message : e.InnerException.Message);
-                return StatusCode(500);
+
+                return Ok(new
+                {
+                    Msg = "Error",
+                    Code = 500,
+                    Data = new
+                    {
+                        Amount = amount,
+                        Fee = 0
+                    }
+                });
             }
         }
     }
